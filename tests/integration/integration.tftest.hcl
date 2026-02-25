@@ -1,4 +1,4 @@
-# Integration Tests for LZ Vending Module
+# Integration Tests for ALZ Sub Vending Module
 # These tests validate complete scenarios with multiple components
 
 run "integration_hub_and_spoke" {
